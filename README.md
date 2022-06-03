@@ -14,4 +14,4 @@
 * Inventory item add and delete
 
 #### Used Technology
-* Html5, css3, Bootstrap5, React router, React firebase hooks Firebase mongoDB privetRoute authentication.
+* Html5, css3, Bootstrap5, React router, React hooks, Firebase, mongoDB, privetRoute, authentication.
